@@ -25,7 +25,7 @@ const AddBook = () => {
                     value={inputAuthor}
                     onChange={(e) => setInputAuthor(e.target.value)}
                 />
-                <button className="btn btn-success">Add to Booklist</button>
+                <button className="btn btn-success">Add to </button>
             </form>
         </div>
     )
